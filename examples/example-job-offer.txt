@@ -1,0 +1,15 @@
+Junior Backend Developer
+
+We are looking for a Junior Backend Developer to join our team.
+
+Requirements:
+- Python
+- APIs
+- SQL basics
+- Teamwork
+
+Nice to have:
+- FastAPI
+- Git
+
+This is a fictional example for documentation purposes.

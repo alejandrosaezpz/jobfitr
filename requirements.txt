@@ -1,0 +1,3 @@
+# JobFitr backend dependencies
+# No runtime dependencies are declared yet.
+# Add pinned packages here once the backend stack is approved.

@@ -1,0 +1,17 @@
+{
+  "fullName": "Alex Developer",
+  "professionalTitle": "Junior Software Developer",
+  "location": "Madrid, Spain",
+  "email": "alex@example.com",
+  "skills": ["Python", "FastAPI", "React", "TypeScript"],
+  "languages": [
+    {
+      "name": "Spanish",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "B2"
+    }
+  ]
+}
